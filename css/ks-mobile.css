@@ -319,8 +319,9 @@ header .gnb > ul ul{padding: 0; top: 50px;}
 #main01 .tab ul li{width: 100%;}
 #main01 .tab > ul > li > button{font-size: 1.250em;}
 #main01 .tab .tab_nav > li .tab_nav{display: flex; flex-direction: row; margin-bottom: 60px;}
-#main01 .tab .tab_nav > li .tab_nav{margin-left: 50px;}
+#main01 .tab .tab_nav > li .tab_nav{margin-left: 30px;}
 #main01 .tab .tab_nav > li .tab_nav li{font-size: 16px; width: 180px;}
+.tab_nav > li .tab_nav:nth-child(2){margin-left: 20px !important;}
 .tab > ul > li ul li button{font-size: 1.125em;}
 #main01 .view{margin-top: 80px;}
 #main01 .view .left img{max-width: 100%; height: 580px;}
@@ -360,18 +361,18 @@ header .gnb > ul ul{padding: 0; top: 50px;}
 .tab_content .right h3{font-size: 24px;}
 .tab_content .right p{font-size: 16px;}
 .tab_content .right ul li img{width: 100px; height: 100px; margin-right: 10px;}
-.tab_content .right ul li span{font-size: 14px;}
+.tab_content .right ul li span{font-size: 0.875em;}
 .tab_content .right .more{right: 170px; bottom: -25px; }
-.tab_content .right .more a{font-size: 14px; display: block;}
+.tab_content .right .more a{font-size: 0.875em; display: block;}
 #main01 .view .right .text span{font-size: 18px;}
 #main01 .view .right .text p{font-size: 18px; margin: 15px 0;}
-#main01 .view .right .color p{font-size: 14px;}
-#main01 .view .more{bottom: -2%; right: 20px; font-size: 14px;}
+#main01 .view .right .color p{font-size: 0.875em;}
+#main01 .view .more{bottom: -2%; right: 20px; font-size: 0.875em;}
 
 #main02 .main2{padding: 35px 0; margin-top: 80px;}
-#main02 .main2 .title h2{font-size: 50px;}
-#main02 .main2 .title p{font-size: 16px; margin: 15px 0;}
-#main02 .main2 .title span{bottom: -30px; right: 20px; font-size: 14px;}
+#main02 .main2 .title h2{font-size: 3.125em;}
+#main02 .main2 .title p{font-size: 1.0em; margin: 15px 0;}
+#main02 .main2 .title span{bottom: -30px; right: 20px; font-size: 0.875em;}
 #main02 .main2 .right-news img{
     max-width: 100%;
     height: 400px;
